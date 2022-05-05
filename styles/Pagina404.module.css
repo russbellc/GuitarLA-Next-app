@@ -1,0 +1,17 @@
+.pagina404 {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.pagina404 h1 {
+	color: black;
+}
+
+.pagina404 a {
+	color: var(--primary);
+	text-decoration: none;
+	font-size: 3rem;
+	margin: 0;
+}
